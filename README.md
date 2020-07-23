@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors
+# Google_Homepage
 
 Build a copy of the google search page, only with CSS and HTML
 
